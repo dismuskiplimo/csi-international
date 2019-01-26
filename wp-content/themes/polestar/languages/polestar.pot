@@ -1,0 +1,1139 @@
+# Copyright (C) 2017 polestar
+# This file is distributed under the same license as the polestar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: polestar\n"
+"Report-Msgid-Bugs-To: https://purothemes.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Puro <support@purothemes.com>\n"
+"Language-Team: Puro <support@purothemes.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "Try the search form below or browse using the main menu above."
+msgstr ""
+
+#: admin/about/page-customize.php:1
+msgid "Easy Setup and Customization"
+msgstr ""
+
+#: admin/about/page-customize.php:3
+msgid "Polestar is easy to setup and customize, get started in the %sWordPress Customizer%s."
+msgstr ""
+
+#: admin/about/page-github.php:1
+msgid "Actively Developed on Github"
+msgstr ""
+
+#: admin/about/page-github.php:4
+msgid "Polestar is actively %sdeveloped on Github%s."
+msgstr ""
+
+#: admin/about/page-github.php:5
+msgid "You can follow commits, open issues and make contributions yourself."
+msgstr ""
+
+#: admin/about/page-page-builder.php:1
+msgid "Enhanced by Page Builder"
+msgstr ""
+
+#: admin/about/page-page-builder.php:3
+msgid "Polestar integrates, beautifully, with %sPage Builder by SiteOrigin%s."
+msgstr ""
+
+#: admin/about/page-page-builder.php:4
+msgid "This powerful plugin gives you full drag and drop capabilities right inside Polestar."
+msgstr ""
+
+#: admin/about/page-support.php:1
+msgid "Professional Support"
+msgstr ""
+
+#: admin/about/page-support.php:3
+msgid "Keep your project moving forward with quick support on our %sfree support forums%s. Beginner or advanced user, we're here to help."
+msgstr ""
+
+#: admin/about/page-woocommerce.php:1
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: admin/about/page-woocommerce.php:4
+msgid "Polestar is a full-featured WooCommerce theme."
+msgstr ""
+
+#: admin/about/page-woocommerce.php:5
+msgid "Featuring premium features like a menu mini-cart and product Quick View. Polestar offers custom WooCommerce styling, keeping your store fast and looking good."
+msgstr ""
+
+#: comments.php:34
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50, comments.php:68
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:51, comments.php:69
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:33, inc/extras-options.php:67
+msgid "Footer Widgets"
+msgstr ""
+
+#: footer.php:50
+msgid "Theme by %s"
+msgstr ""
+
+#: footer.php:70
+msgid "Scroll to top"
+msgstr ""
+
+#: functions.php:61, inc/customizer-options.php:109
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:115, inc/customizer-options.php:359
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:117
+msgid "Visible on posts and pages that use the default template."
+msgstr ""
+
+#: functions.php:124, inc/customizer-options.php:383
+msgid "Footer"
+msgstr ""
+
+#: functions.php:126
+msgid "A column will be automatically assigned to each widget inserted."
+msgstr ""
+
+#: functions.php:134
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:136
+msgid "Displays on WooCommerce pages."
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:39
+msgid "Header Widgets"
+msgstr ""
+
+#: header.php:59
+msgid "Menu"
+msgstr ""
+
+#: header.php:71
+msgid "Open search bar"
+msgstr ""
+
+#: header.php:82
+msgid "Go back"
+msgstr ""
+
+#: header.php:93, searchform.php:2, woocommerce/product-searchform.php:20
+msgid "Search for:"
+msgstr ""
+
+#: header.php:96
+msgid "Close search bar"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "/*translators:1:pluginnames.*/This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:346
+msgid "/*translators:1:pluginnames.*/The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:352
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:358
+msgid "/*translators:1:pluginnames.*/The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:364
+msgid "/*translators:1:pluginnames.*/The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386, inc/class-tgm-plugin-activation.php:827, inc/class-tgm-plugin-activation.php:2533, inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387, inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388, inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934, inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121, inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509, inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509, inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer-options.php:28
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer-options.php:37
+msgid "Header"
+msgstr ""
+
+#: inc/customizer-options.php:44
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer-options.php:47
+msgid "A custom logo to be displayed instead of the site title."
+msgstr ""
+
+#: inc/customizer-options.php:55
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer-options.php:58
+msgid "Display the website tagline below the logo or site title."
+msgstr ""
+
+#: inc/customizer-options.php:65
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer-options.php:72
+msgid "Select the header layout."
+msgstr ""
+
+#: inc/customizer-options.php:79
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer-options.php:82
+msgid "Sticks the header to the top of the screen on scroll."
+msgstr ""
+
+#: inc/customizer-options.php:89
+msgid "Sticky Header Scales Logo"
+msgstr ""
+
+#: inc/customizer-options.php:92
+msgid "Scales the logo down as the header becomes sticky."
+msgstr ""
+
+#: inc/customizer-options.php:102
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer-options.php:112
+msgid "Display the header menu."
+msgstr ""
+
+#: inc/customizer-options.php:119
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer-options.php:122
+msgid "Use a mobile menu for small screen devices. Header Menu setting must be enabled."
+msgstr ""
+
+#: inc/customizer-options.php:129
+msgid "Menu Search"
+msgstr ""
+
+#: inc/customizer-options.php:132
+msgid "Display a search icon in the main menu."
+msgstr ""
+
+#: inc/customizer-options.php:139
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/customizer-options.php:142
+msgid "Display next/previous navigation on single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:149
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer-options.php:152
+msgid "Display the scroll to top button."
+msgstr ""
+
+#: inc/customizer-options.php:162
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer-options.php:169
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer-options.php:179
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer-options.php:189
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer-options.php:198
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer-options.php:207
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer-options.php:216
+msgid "Secondary Text Color"
+msgstr ""
+
+#: inc/customizer-options.php:228
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer-options.php:235
+msgid "Archive Featured Image"
+msgstr ""
+
+#: inc/customizer-options.php:238
+msgid "Display the featured image on blog and archive pages."
+msgstr ""
+
+#: inc/customizer-options.php:244
+msgid "Archive Post Content"
+msgstr ""
+
+#: inc/customizer-options.php:251
+msgid "Choose how to display your post content on blog and archive pages. Select Full Post Content if using the \"more\" quicktag."
+msgstr ""
+
+#: inc/customizer-options.php:257
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer-options.php:260
+msgid "The link text displayed when posts are split using the \"more\" quicktag."
+msgstr ""
+
+#: inc/customizer-options.php:261, inc/template-tags.php:415, inc/template-tags.php:427
+msgid "Continue reading"
+msgstr ""
+
+#: inc/customizer-options.php:266
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer-options.php:269
+msgid "If no manual post excerpt is added one will be generated. How many words should it be?"
+msgstr ""
+
+#: inc/customizer-options.php:275
+msgid "Post Excerpt Read More Link"
+msgstr ""
+
+#: inc/customizer-options.php:278
+msgid "Display the Read More link below the post excerpt."
+msgstr ""
+
+#: inc/customizer-options.php:284
+msgid "Post Featured Image"
+msgstr ""
+
+#: inc/customizer-options.php:287
+msgid "Display the featured image on single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:293
+msgid "Post Date"
+msgstr ""
+
+#: inc/customizer-options.php:296
+msgid "Display the post date on blog, archive and single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:302
+msgid "Post Author"
+msgstr ""
+
+#: inc/customizer-options.php:305
+msgid "Display the post author on blog, archive and single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:311
+msgid "Post Categories"
+msgstr ""
+
+#: inc/customizer-options.php:314
+msgid "Display the post categories on blog, archive and single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:320
+msgid "Post Comment Count"
+msgstr ""
+
+#: inc/customizer-options.php:323
+msgid "Display the post comment count on blog, archive and single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:329
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer-options.php:332
+msgid "Display the post tags on single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:338
+msgid "Post Author Box"
+msgstr ""
+
+#: inc/customizer-options.php:341
+msgid "Display the post author biographical info on single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:347
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer-options.php:350
+msgid "Display related posts on single post pages."
+msgstr ""
+
+#: inc/customizer-options.php:366
+msgid "Position"
+msgstr ""
+
+#: inc/customizer-options.php:373
+msgid "Choose the sidebar position."
+msgstr ""
+
+#: inc/customizer-options.php:390
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer-options.php:397
+msgid "Choose the footer layout."
+msgstr ""
+
+#: inc/customizer-options.php:404
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer-options.php:407
+msgid "{site-title} and {year} can be used to display your website title and the current year."
+msgstr ""
+
+#: inc/customizer-options.php:408, inc/template-tags.php:138
+msgid "Copyright &copy; {year} {sitename}"
+msgstr ""
+
+#: inc/customizer-options.php:419
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer-options.php:426
+msgid "Products Per Row"
+msgstr ""
+
+#: inc/customizer-options.php:429
+msgid "Set the number of products per row on shop archive pages."
+msgstr ""
+
+#: inc/customizer-options.php:441
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: inc/customizer-options.php:448
+msgid "Choose the shop sidebar position."
+msgstr ""
+
+#: inc/customizer-options.php:455
+msgid "Product Gallery"
+msgstr ""
+
+#: inc/customizer-options.php:470
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/customizer-options.php:473
+msgid "Display the WooCommerce mini cart in the header menu."
+msgstr ""
+
+#: inc/customizer-options.php:480, woocommerce/template-tags.php:151
+msgid "Quick View"
+msgstr ""
+
+#: inc/customizer-options.php:483
+msgid "Display a Quick View button on hover on product archive pages."
+msgstr ""
+
+#: inc/customizer-options.php:490
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/customizer-options.php:493
+msgid "Display an Add to Cart button on hover on product archive pages."
+msgstr ""
+
+#: inc/customizer-options.php:505
+msgid "More Options"
+msgstr ""
+
+#: inc/customizer-options.php:512
+msgid "Polestar Premium"
+msgstr ""
+
+#: inc/customizer-options.php:515
+msgid "Polestar Premium adds loads of extra customization settings and useful features. They'll save you time and make your site more professional."
+msgstr ""
+
+#: inc/customizer-options.php:515
+msgid "Find Out More"
+msgstr ""
+
+#: inc/extras-options.php:23
+msgid "Page Layout"
+msgstr ""
+
+#: inc/extras-options.php:25
+msgid "Default"
+msgstr ""
+
+#: inc/extras-options.php:26
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/extras-options.php:27
+msgid "Full Width, No Sidebar"
+msgstr ""
+
+#: inc/extras-options.php:28
+msgid "Constrained"
+msgstr ""
+
+#: inc/extras-options.php:29
+msgid "Stripped"
+msgstr ""
+
+#: inc/extras-options.php:35
+msgid "Header Overlap"
+msgstr ""
+
+#: inc/extras-options.php:37
+msgid "Disabled"
+msgstr ""
+
+#: inc/extras-options.php:38
+msgid "Enabled"
+msgstr ""
+
+#: inc/extras-options.php:39
+msgid "Enabled - Light Text"
+msgstr ""
+
+#: inc/extras-options.php:40
+msgid "Enabled - Dark Text"
+msgstr ""
+
+#: inc/extras-options.php:46
+msgid "Header Bottom Margin"
+msgstr ""
+
+#: inc/extras-options.php:47, inc/extras-options.php:54, inc/extras-options.php:61, inc/extras-options.php:68
+msgid "Enable"
+msgstr ""
+
+#: inc/extras-options.php:48
+msgid "Display the margin below the header."
+msgstr ""
+
+#: inc/extras-options.php:53
+msgid "Page Title"
+msgstr ""
+
+#: inc/extras-options.php:55
+msgid "Display the page title."
+msgstr ""
+
+#: inc/extras-options.php:60
+msgid "Footer Top Margin"
+msgstr ""
+
+#: inc/extras-options.php:62
+msgid "Display the margin above the footer."
+msgstr ""
+
+#: inc/extras-options.php:69
+msgid "Display the footer widgets."
+msgstr ""
+
+#: inc/extras-options.php:105
+msgid "Lead the way with Polestar. It's fast loading, responsive, lightweight and flexible design is perfectly suited for building dynamic pages with SiteOrigin's Page Builder and selling with WooCommerce."
+msgstr ""
+
+#: inc/extras.php:146
+msgid "https://purothemes.com/themes/polestar/"
+msgstr ""
+
+#: inc/extras.php:147
+msgid "Buy Premium Version"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "View posts by "
+msgstr ""
+
+#: inc/template-tags.php:63, inc/template-tags.php:64
+msgid "View shopping cart"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "View Cart"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:370
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:452
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:452
+msgid "One Comment"
+msgstr ""
+
+#: inc/template-tags.php:452
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:465
+msgid "Sticky"
+msgstr ""
+
+#: inc/template-tags.php:493, yarpp-template-polestar.php:12
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/template-tags.php:514, yarpp-template-polestar.php:31
+msgid "No related posts."
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3, searchform.php:5, woocommerce/product-searchform.php:23
+msgid "Search"
+msgstr ""
+
+#: single.php:27
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:28
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-gallery.php:65, template-parts/content-image.php:52, template-parts/content-page.php:32, template-parts/content-video.php:51, template-parts/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content.php:24
+msgid "Open post"
+msgstr ""
+
+#: woocommerce/product-searchform.php:21
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/quick-view.php:38
+msgid "Close Quick View modal window"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:50
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:20
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:17
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/template-tags.php:65
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
+msgstr ""
+
+#: woocommerce/template-tags.php:68
+msgid "Dismiss"
+msgstr ""

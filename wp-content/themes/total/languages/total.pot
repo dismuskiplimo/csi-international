@@ -1,0 +1,567 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Total 1.0.0\n"
+"Report-Msgid-Bugs-To: http://hashthemes.com\n"
+"POT-Creation-Date: 2015-06-12 21:51:31+0000\n"
+"POT-Revision-Date: Wed Jul 20 2016 15:08:32 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Hash Themes <hashthemes@gmail.com>\n"
+"Language-Team: English <hashthemes@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:71
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Comment"
+msgstr ""
+
+#: ../functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:115
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:117
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../functions.php:125
+msgid "About Us"
+msgstr ""
+
+#: ../functions.php:127
+msgid "Add widgets here to appear in the About Section of the Home Page."
+msgstr ""
+
+#: ../functions.php:135
+msgid "Footer One"
+msgstr ""
+
+#: ../functions.php:137 ../functions.php:147 ../functions.php:157 ../functions.
+#: php:167
+msgid "Add widgets here to appear in your Footer."
+msgstr ""
+
+#: ../functions.php:145
+msgid "Footer Two"
+msgstr ""
+
+#: ../functions.php:155
+msgid "Footer Three"
+msgstr ""
+
+#: ../functions.php:165
+msgid "Footer Four"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:193
+msgctxt "Pontano Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:201
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: To add an additional character subset specific to your language,
+#. translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: ../functions.php:209
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: ../footer.php:54
+msgid "WordPress Theme"
+msgstr ""
+
+#: ../footer.php:56
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: ../index.php:50 ../search.php:39 ../archive.php:44
+msgid "Prev"
+msgstr ""
+
+#: ../index.php:51 ../search.php:40 ../archive.php:45
+msgid "Next"
+msgstr ""
+
+#: ../inc/customizer.php:20
+msgid "-- Don't Replace --"
+msgstr ""
+
+#: ../inc/customizer.php:46
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/customizer.php:53
+msgid "Static Front Page"
+msgstr ""
+
+#: ../inc/customizer.php:55
+msgid "Your theme supports a static front page."
+msgstr ""
+
+#: ../inc/customizer.php:60
+msgid "Site Logo/Title/Tagline"
+msgstr ""
+
+#: ../inc/customizer.php:66
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:72
+msgid "Colors"
+msgstr ""
+
+#: ../inc/customizer.php:80
+msgid "Home Slider Section"
+msgstr ""
+
+#: ../inc/customizer.php:91
+msgid "Slider "
+msgstr ""
+
+#: ../inc/customizer.php:109
+msgid "Caption Title"
+msgstr ""
+
+#: ../inc/customizer.php:126
+msgid "Caption SubTitle"
+msgstr ""
+
+#: ../inc/customizer.php:142
+msgid "Slider Image"
+msgstr ""
+
+#: ../inc/customizer.php:145
+msgid "Image Size: 1900X600px"
+msgstr ""
+
+#: ../inc/customizer.php:156
+msgid "About Us Section"
+msgstr ""
+
+#: ../inc/customizer.php:165 ../inc/customizer.php:899 ../inc/customizer.php:1413
+msgid "Section Background"
+msgstr ""
+
+#: ../inc/customizer.php:174
+msgid "About Us Page/Progress Bar"
+msgstr ""
+
+#: ../inc/customizer.php:192 ../inc/customizer.php:416 ../inc/customizer.php:645 .
+#: ./inc/customizer.php:748
+msgid "Select a Page"
+msgstr ""
+
+#: ../inc/customizer.php:212
+msgid "Progress Bar "
+msgstr ""
+
+#: ../inc/customizer.php:231 ../inc/customizer.php:349 ../inc/customizer.php:474 .
+#: ./inc/customizer.php:558 ../inc/customizer.php:702 ../inc/customizer.php:874 ..
+#: /inc/customizer.php:950 ../inc/customizer.php:1025 ../inc/customizer.php:1128 .
+#: ./inc/customizer.php:1234 ../inc/customizer.php:1316
+msgid "Title"
+msgstr ""
+
+#: ../inc/customizer.php:250
+msgid "Percentage"
+msgstr ""
+
+#: ../inc/customizer.php:271
+msgid "Right Image"
+msgstr ""
+
+#: ../inc/customizer.php:292
+msgid "Image Size: 500X600px"
+msgstr ""
+
+#: ../inc/customizer.php:311
+msgid "Replace Image by widget"
+msgstr ""
+
+#: ../inc/customizer.php:322
+msgid "Featured Section"
+msgstr ""
+
+#: ../inc/customizer.php:330
+msgid "Section Title & Desc"
+msgstr ""
+
+#: ../inc/customizer.php:367
+msgid "Description"
+msgstr ""
+
+#: ../inc/customizer.php:376
+msgid "Featured Posts"
+msgstr ""
+
+#: ../inc/customizer.php:397
+msgid "Featured Page "
+msgstr ""
+
+#: ../inc/customizer.php:436 ../inc/customizer.php:665
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: ../inc/customizer.php:447
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../inc/customizer.php:455
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../inc/customizer.php:492 ../inc/customizer.php:576 ../inc/customizer.php:720 .
+#: ./inc/customizer.php:892 ../inc/customizer.php:1043 ../inc/customizer.php:1146 
+#: ../inc/customizer.php:1252 ../inc/customizer.php:1334
+msgid "Sub Title"
+msgstr ""
+
+#: ../inc/customizer.php:500
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../inc/customizer.php:531
+msgid "Service Section"
+msgstr ""
+
+#: ../inc/customizer.php:539 ../inc/customizer.php:683 ../inc/customizer.php:855
+msgid "Section Title"
+msgstr ""
+
+#: ../inc/customizer.php:584
+msgid "Service Posts"
+msgstr ""
+
+#: ../inc/customizer.php:605
+msgid "Image Size: 770X650px"
+msgstr ""
+
+#: ../inc/customizer.php:626
+msgid "Service Page "
+msgstr ""
+
+#: ../inc/customizer.php:675
+msgid "Team Section"
+msgstr ""
+
+#: ../inc/customizer.php:729
+msgid "Team Post "
+msgstr ""
+
+#: ../inc/customizer.php:766
+msgid "Team Member Designation"
+msgstr ""
+
+#: ../inc/customizer.php:784
+msgid "Facebook Url"
+msgstr ""
+
+#: ../inc/customizer.php:802
+msgid "Twitter Url"
+msgstr ""
+
+#: ../inc/customizer.php:820
+msgid "Google Plus Url"
+msgstr ""
+
+#: ../inc/customizer.php:838
+msgid "Linkedin Url"
+msgstr ""
+
+#: ../inc/customizer.php:847
+msgid "Counter Section"
+msgstr ""
+
+#: ../inc/customizer.php:920
+msgid "Image Size: 1800X400px"
+msgstr ""
+
+#: ../inc/customizer.php:930
+msgid "Counter "
+msgstr ""
+
+#: ../inc/customizer.php:968
+msgid "Counter Value"
+msgstr ""
+
+#: ../inc/customizer.php:988
+msgid "Counter Icon"
+msgstr ""
+
+#: ../inc/customizer.php:998
+msgid "Testimonial Section"
+msgstr ""
+
+#: ../inc/customizer.php:1006
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../inc/customizer.php:1051
+msgid "Testimonial Pages"
+msgstr ""
+
+#: ../inc/customizer.php:1071
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/customizer.php:1092
+msgid "Select the Pages"
+msgstr ""
+
+#: ../inc/customizer.php:1101
+msgid "Blog Section"
+msgstr ""
+
+#: ../inc/customizer.php:1109
+msgid "Blog Title"
+msgstr ""
+
+#: ../inc/customizer.php:1155
+msgid "Blog Settings"
+msgstr ""
+
+#: ../inc/customizer.php:1175
+msgid "Number of Posts to show"
+msgstr ""
+
+#: ../inc/customizer.php:1207
+msgid "Clients Logo Section"
+msgstr ""
+
+#: ../inc/customizer.php:1215
+msgid "Clients Logo Title"
+msgstr ""
+
+#: ../inc/customizer.php:1260
+msgid "Clients Logos"
+msgstr ""
+
+#: ../inc/customizer.php:1280
+msgid "Upload Clients Logos"
+msgstr ""
+
+#: ../inc/customizer.php:1289
+msgid "Call To Action Section"
+msgstr ""
+
+#: ../inc/customizer.php:1297
+msgid "Call To Action Title"
+msgstr ""
+
+#: ../inc/customizer.php:1352
+msgid "Button 1 Text"
+msgstr ""
+
+#: ../inc/customizer.php:1370
+msgid "Button 1 Link"
+msgstr ""
+
+#: ../inc/customizer.php:1388
+msgid "Button 2 Text"
+msgstr ""
+
+#: ../inc/customizer.php:1406
+msgid "Button 2 Link"
+msgstr ""
+
+#: ../inc/customizer.php:1434
+msgid "Image Size: 1800X800px"
+msgstr ""
+
+#: ../inc/total-functions.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/total-functions.php:77 ../inc/template-tags.php:74 ../template-
+#: parts/content-page.php:23
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: comment date, 2: comment time
+#: ../inc/total-functions.php:89
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:24
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:32
+msgid "No <span>Comments</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid " <span>Comments</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:36
+msgid "1 <span>Comment</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:56 ../inc/template-tags.php:62 ../inc/template-tags.
+#: php:86
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:58
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:70
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:70
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:70
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-single.php:16 ../template-parts/content-page.php:16 .
+#: ./template-parts/content.php:47
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../template-parts/content.php:40
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: ../templates/home-template.php:144 ../templates/home-template.php:586
+msgid "Read More"
+msgstr ""
+
+#: ../templates/home-template.php:381
+msgid "Detail"
+msgstr ""
+
+#: ../404.php:12
+msgid "404 Error"
+msgstr ""
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid "404"
+msgstr ""
+
+#. Name of the theme
+msgid "Total"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Total is a beautiful WordPress theme with lots of featured packed option to "
+"configure a complete website."
+msgstr ""
+
+#. Author of the theme
+msgid "Hash Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://hashthemes.com"
+msgstr ""
